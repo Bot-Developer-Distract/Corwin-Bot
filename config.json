@@ -1,0 +1,22 @@
+{
+    "token": "ODQwMjEyMTEwODE3NzU1MTU3.YJU6gQ.aMpUsY-nzVx3ckOZmGNX6Fr6bnc",
+    "prefix": "!",
+    "mongooseConnectionString": "mongodb+srv://root:KgJTcmAYDs43PT5j@cluster0.u3zjd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "embed": {
+        "maincolor": "#5966f2",
+        "error": "RED",
+        "succes": "GREEN",
+
+        "errorTitle": "❌ || Error",
+        "succesTitle": "✅ || Success"
+    },
+    "discord":{
+        "footer": "© CoreBot",
+        "bugreport": "933721483744788520"
+    },
+    "colors": {
+        "normal": "#5966F2",
+        "succes": "GREEN",
+        "error": "RED"
+    }
+}
